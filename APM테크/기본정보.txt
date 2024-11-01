@@ -1,0 +1,8 @@
+APM Technologies - https://apmtech.co.kr/
+
+발전소인지 변전소인지 암튼 전력GIS의 Patial Discharge Monitoring System
+
+하는 놈들이 음청 많은데 사우디를 주로 공략중이고 UAE의 아부다비인지 두바이인지 암튼 거기 뚫는 중
+
+GIS : Gas Insulated Switching Gear 
+PD : Patial Discharge (IEC 60270-2000 의 부분 방전의 정의는 “도체 사이의 절연물에 부분적으로일어나며, 도체에 인접하여 발생하거나 발생하지 않을 수도 있는 국부적인 전기 방전”을 말하며, 액체 및 고체 절연 시스템에 돌이킬 수 없는 손상을 유발할 수 있습니다.)
